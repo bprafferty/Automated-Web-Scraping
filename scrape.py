@@ -1,6 +1,6 @@
 #Author: Brian Rafferty
 #Date: 7/28/2020
-#Title: Automated Data Mining
+#Title: Automated Web Scraping
 #Description: Program accesses my personal portfolio website
 #               using requests, and returns a BeautifulSoup
 #               object containing the HTML data for the page.
