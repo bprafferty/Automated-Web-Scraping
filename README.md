@@ -1,6 +1,6 @@
 Automated Data Mining
 
-This program automates the data mining process of connecting 
+This program automates the web scraping process of connecting 
 to a url, scraping its HTML data, parsing the data for needed
 content, and writing the selected data to a csv file. The script
 is designed to run automatically every morning at 9:00 am, and
